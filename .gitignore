@@ -1,0 +1,25 @@
+# Visual Studio & .NET
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# 編譯輸出
+*.exe
+*.dll
+*.pdb
+
+# NuGet
+packages/
+*.nupkg
+project.lock.json
+
+# Rider
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
